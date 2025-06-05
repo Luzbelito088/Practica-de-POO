@@ -1,0 +1,20 @@
+tipo,nombre,audiencia,frecuencia,cantidad_canales,tipo_publicacion,periodicidad,programa,horario_inicio,horario_fin,temas    
+television,Canal  1,1200000,24/7,10,,,Noticiero Matutino,07:00,09:00,            
+television,Canal  1,1200000,24/7,10,,,Cocina FÃ¡cil,10:00,11:00,              
+television,Canal  1,1200000,24/7,10,,,Telenovela RomÃ¡ntica,20:00,21:00,            
+television,Canal  1,1200000,24/7,10,,,Documentales de Naturaleza,21:00,22:00,          
+television,Canal  1,1200000,24/7,10,,,Late Night Show,22:00,23:30,            
+television,Canal  2,800000,24/7,8,,,Noticias de la Tarde,13:00,14:00,            
+television,Canal  2,800000,24/7,8,,,Noticias de la Tarde,19:00,20:00,            
+television,Canal  2,800000,24/7,8,,,Cine ClÃ¡sico,23:30,02:00,              
+radio,Radio  FM,500000,100.5,,,,MÃºsica en Vivo,09:00,12:00,              
+radio,Radio  FM,500000,100.5,,,,Charlas de Actualidad,14:00,15:00,            
+radio,Radio  FM,500000,100.5,,,,Programa de Entrevistas,16:00,17:00,            
+radio,Radio  FM,500000,100.5,,,,Noche de Jazz,20:00,22:00,              
+radio,Radio  Rock,300000,101.2,,,,Rock ClÃ¡sico,10:00,12:00,              
+radio,Radio  Rock,300000,101.2,,,,Entrevistas a Bandas,15:00,16:00,            
+radio,Radio  Rock,300000,101.2,,,,Noche de Metal,21:00,23:00,              
+prensa,Diario  Nacional,250000,,,diario,Diario,,,,"PolÃ­tica, EconomÃ­a, Cultura,  Deportes"          
+prensa,Revista  Semanal,150000,,,revista,Semanal,,,,"Entretenimiento, Estilo de Vida,  Salud"        
+prensa,Diario  Local,100000,,,diario,Diario,,,,"Noticias Locales, Eventos,  Cultura"          
+prensa,Revista  de Ciencia,80000,,,revista,Mensual,,,,"Ciencia, Tecnologia,  Innovacion"       
